@@ -12,4 +12,4 @@ Now that you are all set up, it's time to learn a little more about the tools of
 'git merge' ties together (merges) your current branch with another branch
 'git pull' FETCHES a branch from a remote repository AND immediately MERGES it into the current branch
 7. What is a merge conflict? when competing changes are made to the same line of a file
-8. How do you resolve a merge conflict? pull the changes to your local repository and correct the changes there
+8. How do you resolve a merge conflict? pull the changes to your local repository and correct the changes there.
